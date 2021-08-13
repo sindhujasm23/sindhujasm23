@@ -1,19 +1,17 @@
-### Hi there , I am Sindhuja 👋
+### Hi, I am Sindhuja 👋
 
 ![1628427444993](https://user-images.githubusercontent.com/87114208/129353573-a25b6141-ddd4-4c2f-9210-f65d8fa743f5.jpg)
 
-<!--
-**sindhujasm23/sindhujasm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![1628427444993](https://user-images.githubusercontent.com/87114208/129353543-773fdf95-cf06-4fb9-81c3-d86681b621ab.jpg)
+Enthusiastic Test Automation Specialist with 6+ years of experience in Software testing. Good knowledge in Manual testing ,UI Automation using Selenium Web Driver with Java and API automation using Rest Assured. Motivated to learn, grow and excel in QA space.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♦Front-End (UI) Automation : Selenium WebDriver with Java , Selenium Grid
+♦Back-End (API) Automation : Restful Automation using Postman and Rest Assured
+♦Unit Testing: Junit, TestNG
+♦DevOps Automation : Git, Maven, Jenkins,
+♦Programming Languages: Core Java
+♦Manual Testing : Black box Testing , Cross Browser Testing, Test case Enumeration
+♦Source Control Tools: Tortoise Git
+♦CI/CD Tools : Jenkins Pipelines
+♦Build Tools: Maven Builds
+♦Logging tools: Splunk
+♦Others: Basic SQL skills
