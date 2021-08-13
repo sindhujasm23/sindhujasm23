@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there , I am Sindhuja 👋
+
+![1628427444993](https://user-images.githubusercontent.com/87114208/129353573-a25b6141-ddd4-4c2f-9210-f65d8fa743f5.jpg)
 
 <!--
 **sindhujasm23/sindhujasm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![1628427444993](https://user-images.githubusercontent.com/87114208/129353543-773fdf95-cf06-4fb9-81c3-d86681b621ab.jpg)
 
 Here are some ideas to get you started:
 
